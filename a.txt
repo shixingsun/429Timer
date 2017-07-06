@@ -1,1 +1,2 @@
+author sunshixing
 use the gitgui 
