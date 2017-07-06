@@ -1,2 +1,3 @@
 author sunshixing
-use the gitgui 
+use the gitgui
+gitgui is a stupid way 
